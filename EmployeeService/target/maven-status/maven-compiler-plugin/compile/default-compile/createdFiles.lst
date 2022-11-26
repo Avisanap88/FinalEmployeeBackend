@@ -1,0 +1,15 @@
+com\digitalbooks\bookservice\model\AuthorResponse.class
+com\digitalbooks\bookservice\exception\BookException.class
+com\digitalbooks\bookservice\service\ReaderService.class
+com\digitalbooks\bookservice\model\Model.class
+com\digitalbooks\bookservice\entity\BookEntity.class
+com\digitalbooks\bookservice\entity\BuyBook.class
+com\digitalbooks\bookservice\model\AuthorModel.class
+com\digitalbooks\bookservice\kafkaconfig\KafkaProducerConfig.class
+com\digitalbooks\bookservice\controller\BookController.class
+com\digitalbooks\bookservice\repository\BuyRepository.class
+com\digitalbooks\bookservice\Application.class
+com\digitalbooks\bookservice\controller\ReaderController.class
+com\digitalbooks\bookservice\repository\BookRepository.class
+com\digitalbooks\bookservice\service\BookService.class
+com\digitalbooks\bookservice\advice\ExceptionAdvice.class

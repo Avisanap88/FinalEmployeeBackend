@@ -1,0 +1,16 @@
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\controller\BookController.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\Application.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\entity\BuyBook.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\entity\ReaderEntity.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\model\Model.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\service\BookService.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\entity\BookEntity.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\model\AuthorResponse.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\model\AuthorModel.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\repository\BuyRepository.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\repository\BookRepository.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\kafkaconfig\KafkaProducerConfig.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\controller\ReaderController.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\exception\BookException.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\advice\ExceptionAdvice.java
+C:\Users\cogjava3240\Desktop\Last DigitalBook\book-service\src\main\java\com\digitalbooks\bookservice\service\ReaderService.java
